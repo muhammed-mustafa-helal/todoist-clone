@@ -1,4 +1,4 @@
-import { useTasks } from "../../hooks";
+import { useTasks } from "../hooks";
 import Checkbox from "./Checkbox";
 
 const Tasks = () => {
